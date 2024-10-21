@@ -1,0 +1,17 @@
+C:\Users\полено\source\repos\TriangleApp\bin\Debug\net8.0-windows\TriangleApp.exe
+C:\Users\полено\source\repos\TriangleApp\bin\Debug\net8.0-windows\TriangleApp.deps.json
+C:\Users\полено\source\repos\TriangleApp\bin\Debug\net8.0-windows\TriangleApp.runtimeconfig.json
+C:\Users\полено\source\repos\TriangleApp\bin\Debug\net8.0-windows\TriangleApp.dll
+C:\Users\полено\source\repos\TriangleApp\bin\Debug\net8.0-windows\TriangleApp.pdb
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.csproj.GenerateResource.cache
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.AssemblyInfoInputs.cache
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.AssemblyInfo.cs
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.dll
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\refint\TriangleApp.dll
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.pdb
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.genruntimeconfig.cache
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\ref\TriangleApp.dll
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.Form2.resources
+C:\Users\полено\source\repos\TriangleApp\obj\Debug\net8.0-windows\TriangleApp.TriangleThing.resources

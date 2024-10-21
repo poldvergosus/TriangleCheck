@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|c:\\users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\triangleapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|c:\\users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\triangleapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|c:\\users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\triangleapp\\trianglething.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|solutionrelative:trianglething.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|c:\\users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\triangleapp\\trianglething.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E404D-4345-4DA8-95B5-22453CFB461A}|TriangleApp.csproj|solutionrelative:trianglething.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:15:45.522Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:51:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TriangleThing.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\TriangleThing.cs",
+              "RelativeDocumentMoniker": "TriangleThing.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\TriangleThing.cs",
+              "RelativeToolTip": "TriangleThing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:21:57.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriangleThing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\TriangleThing.cs",
+              "RelativeDocumentMoniker": "TriangleThing.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u0435\u043D\u043E\\source\\repos\\TriangleApp\\TriangleThing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "TriangleThing.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:06:25.828Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
